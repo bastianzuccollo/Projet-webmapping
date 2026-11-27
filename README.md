@@ -4,3 +4,4 @@ On peut ainsi afficher la couche communes qui est plus légère avec des valeurs
 On remarque que les communes sont en EPSG:2154 et les aires en EPSG:4326
 On reprojette les couches en EPSG:2154
 On a beaucoup de communes à la frontière de l'aire. On décide de les conserver
+Sur téléphone on ne voit pas les bordures des communes
